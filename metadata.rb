@@ -25,6 +25,8 @@ version          "0.16.1"
 depends 'java'
 depends 'archive'
 
+suggests 'authbind'
+
 supports 'ubuntu'
 
 recipe "tomcat::default", "Installs Tomcat binaries."
