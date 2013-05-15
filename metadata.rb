@@ -14,6 +14,7 @@
 # limitations under the License.
 #
 
+name             'tomcat'
 maintainer       'Peter Donald'
 maintainer_email 'peter@realityforge.org'
 license          "Apache 2.0"
